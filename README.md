@@ -1,13 +1,37 @@
-### Hi there 👋
 
 <!--
-**SeungchanKKK/SeungchanKKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontAlignY=45&fontAlign=75&desc=Energetic%20Hojun's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
+// SpaceBar : %20
+더 많은 정보는 여기서 : https://github.com/kyechan99/capsule-render
+-->
 
-my tech specs
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20there%20👋&fontAlignY=45&fontAlign=75&desc=Seungchans%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
+
+
+<h1>녹차🍵와 컴퓨터장비⌨️를 좋아합니다!<h1> <br/>
+<br/><br/>
+  <h2>노래들으면서 알고리즘을 풀며 시간을 보내는중..<h2>
+<br/>
+
+
+<!--
+status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.app/api?username=Rojojun&show_icons=true&theme=테마)
+더 많은 정보는 여기서 : https://github.com/anuraghazra/github-readme-stats
+-->
+
+![승찬's github stats](https://github-readme-stats.vercel.app/api?username=SeungchanKKK&show_icons=true&theme=tokyonight)
+    
+<!--
+Badges and Icons
+<img src="https://img.shields.io/badge/스택이름-색코드(#제외)?style=for-the-badge&logo=스택이름(공백허용안됨)&logoColor=white">
+// icons : https://simpleicons.org/
+-->
+
+    
 ### Tech Stacks
 #### Languages
 <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/java-c01818?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
+ 
 ### Teches
 <img src="https://img.shields.io/badge/Linq-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33f?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6db33f?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666c?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/STOMP-red?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/SSL-721412?style=for-the-badge&logo=openssl&logoColor=white">
 
@@ -23,6 +47,8 @@ my tech specs
 ### OS
 <img src="https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
 
+<!--
+**SeungchanKKK/SeungchanKKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #
 Here are some ideas to get you started:
 
