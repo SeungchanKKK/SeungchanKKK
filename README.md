@@ -9,7 +9,6 @@ Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&hei
 
 
 <h1>녹차🍵와 컴퓨터장비⌨️를 좋아합니다!<h1> <br/>
-<br/><br/>
   <h2>노래들으면서 알고리즘을 풀며 시간을 보내는중..<h2>
 <br/>
 
