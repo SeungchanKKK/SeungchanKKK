@@ -8,10 +8,6 @@ Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&hei
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20there%20👋&fontAlignY=45&fontAlign=75&desc=Seungchans%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
 
 
-<h1>녹차🍵와 컴퓨터장비⌨️를 좋아합니다!<h1> <br/>
-  <h2>노래들으면서 알고리즘을 풀며 시간을 보내는중..<h2>
-<br/>
-
 
 <!--
 status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.app/api?username=Rojojun&show_icons=true&theme=테마)
