@@ -14,7 +14,6 @@ status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.
 더 많은 정보는 여기서 : https://github.com/anuraghazra/github-readme-stats
 -->
 
-![승찬's github stats](https://github-readme-stats.vercel.app/api?username=SeungchanKKK&show_icons=true&theme=tokyonight)
     
 <!--
 Badges and Icons
